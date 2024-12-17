@@ -1,0 +1,1 @@
+export {default as ProductPage} from './prodcut-page.vue'

@@ -1,0 +1,1 @@
+export {default as CategoryProducts} from './category-products.vue'

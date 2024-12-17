@@ -1,0 +1,1 @@
+export {default as LikeProduct} from './like-product.vue'
